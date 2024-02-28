@@ -1,0 +1,12 @@
+print("Ola Mundo!")
+print(1+1)
+print(True)
+print(12, 9, 2024, sep="-")
+print(12, 9, 2024, end="\n")
+print(12, 9, 2024, end="")
+print(12, 9, 2024, end="\n")
+print("Allan \"Bezerra") # O \ informa para o interpretador pular o símbolo (caracter de escape)
+print("Allan \"Bezerra\"")
+print(r"Allan \"Bezerra\"")
+print('Allan "Bezerra"')
+
